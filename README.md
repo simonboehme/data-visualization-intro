@@ -19,7 +19,7 @@ It is also suggested that you have a recent version of `git`. Check out [how to 
 Go to the directory on your machine where you want to download the material and clone the repository:
 
 ```console
-git clone https://github.com/simonboehme/data-visualization-intro
+git clone https://github.com/simonboehme/data-visualization-intro.git
 ```
 
 
