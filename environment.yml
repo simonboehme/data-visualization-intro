@@ -1,4 +1,4 @@
-name: "base"
+name: base
 channels:
   - conda-forge
 dependencies:
@@ -30,4 +30,4 @@ dependencies:
       - bokeh
       - seaborn
       - scipy
-prefix: "/opt/conda"
+prefix: /opt/conda
