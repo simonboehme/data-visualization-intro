@@ -14,7 +14,7 @@ There is no specific software that you have to install before the training. Howe
 
 ## Is there a recommended Python installation?
 
-If you plan to install Python locally, we recommend using Python 3.8 at the minimum. If possible, it's better to have Python 3.10 installed.
+If you plan to install Python locally, we recommend using Python 3.8 at the minimum. If possible, use Python 3.13.
 
 ## Will the workshop cover the topic X?
 
@@ -36,31 +36,7 @@ Advanced:
 - Parallelism and concurrency
 - Libraries
 
-## How do I test my solutions?
-
-Each section contains a number of exercises for you to solve. The skeleton of the solution is already provided in the form of a function whose name starts with `solution_`. These cells are easy to spot because they look like this:
-
-```python
-%%ipytest functional_programming
-def solution_exercise5(input_arg: list[str]) -> list[(str, int)]:
-    """
-    Write your solution here
-    """
-    pass
-```
-
-The first line `%%ipytest` tells IPython to run the cell in a special manner: instead of just running the cell, the cell is executed in a special environment that tests whether your solution is correct. Your function will automatically receive the needed input as shown by the signature. In this case, we know that the function will receive a list of strings called `input_arg`.
-
-All you have to do is to work on your solution inside the function definition `solution_exercise5`. If you need to load modules or define other functions, you can do it in the same cell.
-To avoid breaking the solution testing mechanism, **do not rename** the function and **do not remove the first line** from the cell.
-
-To run the cell and test your solution, select it and press `Shift + Enter`  or the `Run cell` command of Jupyter. The output will tell you whether your solution is correct. If it is not, you will receive an error message along with the output of the failed tests.
-
 
 ## I have another question. Where should I ask?
 
-For any other question you might have about the workshop, feel free to post a message in the `discussions` on GitHub.
-
-If you come across any bug or have suggestions on how we could improve the content and exercises, feel free to open a new `issue`.
-
-Here is the link to the tutorial's [official repository on GitHub](https://github.com/empa-scientific-it/python-tutorial).
+For any other question you might have about the workshop, feel free to reach out to Simon Boehme via sboehme@ethz.ch.  [sboehme@ethz.ch](mailto:sboehme@ethz.ch).
