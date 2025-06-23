@@ -2,7 +2,18 @@
 
 [![Renku](https://renkulab.io/renku-badge.svg)](https://renkulab.io/p/boehs/data-visualization-intro)
 
-## Run the tutorial on your computer
+The suggested way to run this tutorial is via renku (a service provided by the Swiss Data Science Center).
+Simply click on the above link, which takes you to renku.
+Then click on the green "Launch" button, which launches the renku session.
+Now you can run various available jupyter notebooks on data visualization.
+
+> [!WARNING]
+>
+>- a running renku session will be saved for 2 weeks and during this time you can always resume your work by clicking on the "resume session" button. Do not click "shut down session" as this means all your changes to the renku files will be lost.
+>- before you shut down your session and/or if you want to have access to your files there for more than 2 weeks, it is adviced to create a local copy of your work by downloading your renku files to your local machine
+<br>
+
+## Only as an alternative: run the tutorial on your computer
 
 You have two ways in which you can run the tutorial **locally**.
 
