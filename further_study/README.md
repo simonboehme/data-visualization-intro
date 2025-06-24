@@ -1,6 +1,7 @@
 # python-tutorial
 
-__Note: this python tutorial is reproduced from the python tutorial authored by Empa Scientific IT.__ Please refer to [https://github.com/empa-scientific-it/python-tutorial/](https://github.com/empa-scientific-it/python-tutorial/).
+__Note: this python tutorial is reproduced from the python tutorial authored by Empa Scientific IT.__ Please refer to [https://github.com/empa-scientific-it/python-tutorial/](https://github.com/empa-scientific-it/python-tutorial/) for the original content.
+<br>
 
 [![Renku](https://renkulab.io/renku-badge.svg)](https://renkulab.io/v2/projects/empa-scientific-it/empa-it-python-tutorial/sessions/01JRT57GABCS15JB5NGNTQVTRB/start)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/empa-scientific-it/python-tutorial.git/main?labpath=00_index.ipynb)
